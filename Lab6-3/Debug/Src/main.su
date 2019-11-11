@@ -1,0 +1,16 @@
+main.c:83:5:main	48	static
+main.c:165:6:SystemClock_Config	104	static
+main.c:216:13:MX_I2C1_Init	8	static
+main.c:250:13:MX_I2S3_Init	8	static
+main.c:284:13:MX_SPI1_Init	8	static
+main.c:322:13:MX_USART2_UART_Init	8	static
+main.c:355:13:MX_GPIO_Init	56	static
+main.c:467:6:led_1	16	static
+main.c:473:6:led_2	16	static
+main.c:479:6:led_3	16	static
+main.c:485:6:led_4	16	static
+main.c:492:6:thread_0	64	static
+main.c:508:6:thread_1	64	static
+main.c:524:6:thread_2	72	static
+main.c:552:6:StartDefaultTask	48	static
+main.c:592:6:Error_Handler	4	static

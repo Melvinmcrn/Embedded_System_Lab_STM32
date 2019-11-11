@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Lab1 Debug,org.eclipse.launchbar.core.descriptorType.default\:Lab2-1.elf,org.eclipse.launchbar.core.descriptorType.default\:Lab2-2.elf,org.eclipse.launchbar.core.descriptorType.default\:Lab2-3.elf,org.eclipse.launchbar.core.descriptorType.default\:Lab2-4.elf,org.eclipse.launchbar.core.descriptorType.default\:Lab3-1.elf,org.eclipse.launchbar.core.descriptorType.default\:Lab3-2.elf,org.eclipse.launchbar.core.descriptorType.default\:Lab3-3.elf,org.eclipse.launchbar.core.descriptorType.default\:Lab4-1.elf,org.eclipse.launchbar.core.descriptorType.default\:Lab4-2.elf,org.eclipse.launchbar.core.descriptorType.default\:Lab4-3.elf,org.eclipse.launchbar.core.descriptorType.default\:Quiz1-2.elf,org.eclipse.launchbar.core.descriptorType.default\:Quiz1-1.elf,org.eclipse.launchbar.core.descriptorType.default\:Lab6-3.elf
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Lab1\ Debug/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:Lab1\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
